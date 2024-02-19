@@ -14,6 +14,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Requirements
 * You have to install nodejs -> <a href="https://nodejs.org/en"> NODEJS </a>
 
-##Deploy
+## Deploy
 * **npm start** to run it localy
 
