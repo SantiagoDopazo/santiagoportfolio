@@ -8,11 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * React
 * React-bootstrap
 
-##Installation
-*Clone the repo using git clone
+## Installation
+* Clone the repo using git clone
 
 ### Requirements
-
 * You have to install nodejs -> <a href="https://nodejs.org/en"> NODEJS </a>
 
 ##Deploy
